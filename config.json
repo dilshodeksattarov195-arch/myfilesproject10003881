@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasefalculate",
+        "uuid": 37141170,
+        "checksum": "gvvo3"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
